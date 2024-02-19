@@ -20,7 +20,7 @@ Clue 2: Create a histogram for the image. The total number of bins should match 
 Report the results for the images and your image.
 </p>
 <p>
-3. [Basic Signal Processing] Take the first image:
+3.[Basic Signal Processing] Take the first image:
 Apply amplification and attenuation operations onto the image by a factor of 0.3.
 What did you notice? What does the operation imply?
 Try to do element-wise multiplication of the values 0.1, 0,2, 0.5, and 1.0 to the image.
