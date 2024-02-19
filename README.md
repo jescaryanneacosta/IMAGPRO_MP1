@@ -2,13 +2,15 @@
 Goal: Apply theories from linear algebra and signal processing to understanding images.
 
 Action items:
-
-[Matrix Analysis] Resize the images from this datasetLinks to an external site. into 32 by 32 matrices then aggregate them into one variable.
+<p>
+1. [Matrix Analysis] Resize the images from this datasetLinks to an external site. into 32 by 32 matrices then aggregate them into one variable.
 Visualize the images using Pyplot.
 The result should be (6,32,32,3)
 Explain the shape of the resulting variable and the quality of the images
 Determine the shape of the images.
 Save the tensor as an .npy file
+</p>
+
 [Image Statistics] Take the first image:
 How many pixels are there in total?
 Take the average of each pixel per channel.
