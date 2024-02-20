@@ -60,3 +60,5 @@ def main():
 
     euclidean_distances(image_tensor)
 
+if __name__ == "__main__":
+    main()
