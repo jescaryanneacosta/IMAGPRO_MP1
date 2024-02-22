@@ -12,4 +12,3 @@ for i, image in enumerate(image_tensor):
     print("Total number of pixels:", total_pixels)
     print("Average pixel value per channel:", average_pixel_per_channel)
     print("Number of pixels equal to 0.5 and less than 0.5:", pixels_lessequalto)
-    print()
